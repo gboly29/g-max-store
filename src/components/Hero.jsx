@@ -14,8 +14,11 @@ const Hero = () => {
           We are changing the way people shop
         </h1>
         <p className="mt-8 max-w-xl text-lg leading-8">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio
-          vel nihil quasi itaque totam quisquam unde laborum id, rerum vero?
+          Welcome to our online store, where every click leads to a world of
+          possibilities. We're not just selling products; we're offering you a
+          key to unlock the extraordinary. Our collection is a symphony of
+          quality, style, and innovation, carefully curated to meet your every
+          need.
         </p>
         <div className="mt-10">
           <Link to="/products" className="btn btn-primary">
